@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-repo-link">
-    <img src="https://idm-integration-module.github.io/.github/" alt="Get IDM Integration Module"/>
+  <a href="https://idm-integration-module.github.io/.github/">
+    <img src="https://img.shields.io/badge/🛠_Get_IDM_Integration_Module-green?style=for-the-badge&logo=github" alt="Get IDM Integration Module"/>
   </a>
 </p>
 
